@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erfankhaledi
 - 👀 I’m interested in web developing...
-- 🌱 I’m currently learning django
+- 🌱 I’m currently working on django projects
 - 💞️ I’m looking to collaborate on dajngo projects ...
 - 📫 How to reach me gmail address:erfan.kha791@gmail.com
 - 
