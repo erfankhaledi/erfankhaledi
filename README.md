@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @erfankhaledi
 - 👀 I’m interested in web development...
-- 🌱 I’m currently working on Django projects
-- 💞️ I’m looking to collaborate on Django projects ...
+- 🌱 I am currently working on projects related to website development.
 - 📫 How to reach me email address:erfan.kha791@gmail.com
 - Tweeter User ID: @WebDevErfan
 <!--
