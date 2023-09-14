@@ -2,8 +2,7 @@ Hi, my name is @erfankhaledi
 
 and 
 
-I'm a self-taught passionate Backend developer from Iran
-
+I'm a self-taught passionate Backend developer
  About me
 
 💼 Backend Developer
