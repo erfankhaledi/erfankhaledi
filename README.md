@@ -1,5 +1,5 @@
 
-I'm a self-taught passionate Backend developer from Iran
+I am a self-taught Backend developer from the Netherlands.
 
 About me
 
@@ -7,6 +7,6 @@ About me
 
 ❤️ I love writing Python open-source packages
 
-💬 My Personal website: http://erfankh.pythonanywhere.com/
+💬 My Personal website: http://erfankh.pythonanywhere.com
 
 
