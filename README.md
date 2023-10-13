@@ -1,8 +1,8 @@
 
-I am a self-taught Backend developer from the Netherlands.
+Fullstack Developer from the Netherlands 🇳🇱 
 
 About me
-
+💻 •Upwork guy• 💻
 💼 Backend Developer
 
 ❤️ I love writing Python open-source packages
