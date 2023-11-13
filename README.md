@@ -3,9 +3,9 @@ Fullstack Developer from the Netherlands 🇳🇱
 
 About me
 
-💻 Upwork guy 
+💼 Remote Upworker 💼
 
-💬 full-stack developer
+💻 full-stack developer
   
 💬 I love writing Python open-source packages
 
