@@ -1,5 +1,5 @@
 
-Fullstack Developer from the Netherlands 🇳🇱 
+Freelance Full-stack Developer
 
 About me
 
@@ -9,6 +9,6 @@ About me
   
 💬 I love writing Python open-source packages
 
-💬 For more information About me checkout my social accounts on Twitter & Linkedin 
+💬 For more information check out my Twitter and LinkedIn profiles 
 
 
