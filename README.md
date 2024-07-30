@@ -3,7 +3,7 @@ Freelance Full-stack Developer
 
 About me
 
-💼 Remote Upworker 
+💼 Remote Worker 
 
 💻 Web Developer
   
