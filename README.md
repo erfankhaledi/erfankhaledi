@@ -1,14 +1,13 @@
 
-Freelance Full-stack Developer
+#FrontEnd Developer
 
 About me
 
-💼 Remote Worker 
+I’m a dedicated front-end developer with a passion for creating:
 
-💻 Web Developer
-  
-💬 I love writing Python open-source packages
+modern,responsive, and user-centered web applications.
 
-💬 For more information check out my Twitter and LinkedIn profiles 
+I have expertise in HTML, CSS, SASS, Bootstrap, JavaScript, and React.js.
 
+My goal is to deliver seamless digital experiences that effectively blend design and functionality.
 
