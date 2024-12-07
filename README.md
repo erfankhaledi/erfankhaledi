@@ -1,9 +1,7 @@
 
 #FrontEnd Developer
 
-About me
-
-I’m a dedicated front-end developer with a passion for creating:
+I’m a dedicated front-end developer with a passion for creating
 
 modern,responsive, and user-centered web applications.
 
