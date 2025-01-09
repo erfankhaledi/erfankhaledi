@@ -1,5 +1,32 @@
 ### FrontEnd Developer
+<svg width="100%" height="100" xmlns="http://www.w3.org/2000/svg">
+  <text class="welcome" x="50%" y="40%" text-anchor="middle" fill="black" font-size="24">
+    Welcome to my GitHub page
+  </text>
+  <text class="name" x="50%" y="70%" text-anchor="middle" fill="black" font-size="24">
+    I am Erfan Khaledi
+  </text>
+  <style>
+    .welcome {
+      animation: fade-in 2s forwards;
+    }
+    
+    .name {
+      animation: fade-in 2s 2s forwards;
+    }
 
+    @keyframes fade-in {
+      from {
+        opacity: 0;
+        transform: translateY(-20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  </style>
+</svg>
 ## 📌About Me:
 
 As a front-end developer with two years of dedicated experience, I am dedicated to expanding my expertise and using my skills to create effective products or services to meet industry needs as well as create new and smart capabilities.
