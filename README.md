@@ -6,5 +6,5 @@ As a front-end developer with two years of dedicated experience, I am dedicated 
 
 
 Languages and Tools:
-css3 git graphql html5 javascript react redux sass bootstrap
 
+![html5-original-wordmark](https://github.com/user-attachments/assets/9ae41355-6087-44cb-8297-483136256efc)
