@@ -1,11 +1,10 @@
 
 #FrontEnd Developer
 
-I’m a dedicated front-end developer with a passion for creating
+📌 About Me:
+As a front-end developer with two years of dedicated experience, I am dedicated to expanding my expertise and using my skills to create effective products or services to meet industry needs as well as create new and smart capabilities.
 
-modern,responsive, and user-centered web applications.
 
-I have expertise in HTML, CSS, SASS, Bootstrap, JavaScript, and React.js.
-
-My goal is to deliver seamless digital experiences that effectively blend design and functionality.
+Languages and Tools:
+css3 git graphql html5 javascript react redux sass bootstrap
 
