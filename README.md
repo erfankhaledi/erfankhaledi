@@ -1,4 +1,5 @@
-![Linkedin btn](https://github.com/user-attachments/assets/e106eb3c-b802-4911-ba21-95046df81bc6)![Erfan Khaledi Github Preview](https://github.com/user-attachments/assets/cca86dc3-90fe-497e-9476-f9800de260ae)
+
+![Erfan Khaledi Github Preview](https://github.com/user-attachments/assets/cca86dc3-90fe-497e-9476-f9800de260ae)
 
 
 ### FrontEnd Developer
@@ -7,6 +8,10 @@
 
 As a front-end developer with two years of dedicated experience, I am dedicated to expanding my expertise and using my skills to create effective products or services to meet industry needs as well as create new and smart capabilities.
 ![Uploading Linkedin btn.svg…]()
+## 📌Contact Me:
+<a href="https://www.linkedin.com/in/erfan-khaledi-0850b1229/">![Linkedin btn](https://github.com/user-attachments/assets/e106eb3c-b802-4911-ba21-95046df81bc6)</a>
+<a href="">![instagram btn](https://github.com/user-attachments/assets/a3e37920-0f56-452e-886c-2e8afd6ea8c0)</a>
+
 
 ## 📌Languages and Tools:
 <img src="https://github.com/user-attachments/assets/9ae41355-6087-44cb-8297-483136256efc" style="width: 50px; height: auto;" alt="HTML5 Logo">
