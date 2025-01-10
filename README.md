@@ -7,10 +7,14 @@
 ## 📌About Me:
 
 As a front-end developer with two years of dedicated experience, I am dedicated to expanding my expertise and using my skills to create effective products or services to meet industry needs as well as create new and smart capabilities.
-![Uploading Linkedin btn.svg…]()
+
 ## 📌Contact Me:
-<a href="https://www.linkedin.com/in/erfan-khaledi-0850b1229/">![Linkedin btn](https://github.com/user-attachments/assets/e106eb3c-b802-4911-ba21-95046df81bc6)</a>
-<a href="">![instagram btn](https://github.com/user-attachments/assets/a3e37920-0f56-452e-886c-2e8afd6ea8c0)</a>
+<a href="https://www.linkedin.com/in/erfan-khaledi-0850b1229/" target="_blank">![Linkedin btn](https://github.com/user-attachments/assets/e106eb3c-b802-4911-ba21-95046df81bc6)</a>
+<a href="https://www.instagram.com/erfan_khaldi/" target="_blank">![instagram btn](https://github.com/user-attachments/assets/a3e37920-0f56-452e-886c-2e8afd6ea8c0)</a>
+<a href="https://t.me/Erfan_khldi" target="_blank">![telegram btn](https://github.com/user-attachments/assets/1d6c59a2-d889-47da-98ec-c7c46bb0430e)</a>
+<a href="mailto:erfan.kha791@gmail.com" target="_blank">![gmail btn](https://github.com/user-attachments/assets/bcc561c0-8c28-4c17-ab7a-21d8c70735f3)</a>
+
+
 
 
 ## 📌Languages and Tools:
