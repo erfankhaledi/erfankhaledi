@@ -2,11 +2,11 @@
 ![Erfan Khaledi Github Preview](https://github.com/user-attachments/assets/cca86dc3-90fe-497e-9476-f9800de260ae)
 
 
-### FrontEnd Developer
+### ***FrontEnd Developer***
 
 ## 📌About Me:
 
-As a front-end developer with two years of dedicated experience, I am dedicated to expanding my expertise and using my skills to create effective products or services to meet industry needs as well as create new and smart capabilities.
+As a front-end developer with two years of dedicated experience, I am committed to expanding my expertise and using my skills to create effective products or services that meet industry needs, as well as to develop new and innovative capabilities.
 
 ## 📌Contact Me:
 <a href="https://www.linkedin.com/in/erfan-khaledi-0850b1229/" target="_blank">![Linkedin btn](https://github.com/user-attachments/assets/e106eb3c-b802-4911-ba21-95046df81bc6)</a>
